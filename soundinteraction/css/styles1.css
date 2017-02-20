@@ -1,0 +1,26 @@
+#introduction {
+	font-family: Helvetica;
+	font-size: 18pt;
+	font-weight: bold;
+	color: #5A5B5B;
+	width: 500px;
+	height: 150px;
+}
+#text1 {
+	width: 220px;
+	height: 180px;
+	font-family: Helvetica;
+	
+}
+
+.box {
+	width: 500px;
+	height: 600px;
+	position: absolute;
+	background-color: dark pink;
+	margin-left: 100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	margin-top: 90px;
+}
